@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "105303796772",
+    "project_id": "emotion-detection-app-by-at",
+    "storage_bucket": "emotion-detection-app-by-at.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105303796772:android:c042951fdf368aa2b23cb1",
+        "android_client_info": {
+          "package_name": "com.example.athesham_emotion_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105303796772-8ns2u5e15us4dago6dr6tamfitd06mio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKmvJ8gIvxO1tgp-fxSYdTYSCS1cypkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105303796772-8ns2u5e15us4dago6dr6tamfitd06mio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105303796772:android:156cb376768367dfb23cb1",
+        "android_client_info": {
+          "package_name": "com.example.emotiondetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105303796772-8ns2u5e15us4dago6dr6tamfitd06mio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKmvJ8gIvxO1tgp-fxSYdTYSCS1cypkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105303796772-8ns2u5e15us4dago6dr6tamfitd06mio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
